@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/one" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cis"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="समाचार " />
+    </group>
+
+    <group android:id="@+id/two" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Credit information System (CIS)" />
+    </group>
+
+    <group android:id="@+id/three" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_thoughts"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="विचार" />
+    </group>
+
+    <item android:title="Folder">
+        <menu>
+            <item
+                android:id="@+id/nav_interview"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="अन्तर्वार्ता " />
+        </menu>
+    </item>
+
+    <item android:title="@string/local_services">
+        <menu>
+            <item
+                android:id="@+id/nav_women"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="महिला " />
+        </menu>
+    </item>
+
+</menu>

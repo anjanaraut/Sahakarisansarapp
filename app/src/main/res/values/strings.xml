@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">सहकारी संसार</string>
+    <string name="title_activity_music">Music Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sahakari_sansar">Opening Web View in sahakari sansar</string>
+    <string name="cis">Credit Information System(CIS)</string>
+    <string name="current_news">ताजा समाचार </string>
+    <string name="interview">अन्तर्वार्ता</string>
+    <string name="remote_services">Remote Services</string>
+    <string name="local_services">Local Services</string>
+    <string name="app_raw_folder">महिला </string>
+
+
+</resources>
